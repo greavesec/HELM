@@ -1,0 +1,10 @@
+
+| Talent      | Use       | Description                                                                                                                                                                                                   |
+| ----------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Addict      | Passive   | Halve the effect of positive modifiers from applicable items (rounded down). Double the effect of negative modifiers.<br><br>When you consume an item that has the Addict keyword, make your next roll twice. |
+| Advocate    | 3 per day | You have advantage on your next Support roll.                                                                                                                                                                 |
+| Avenger     | Passive   | When a nearby ally is incapacitated, your next roll is a critical.                                                                                                                                            |
+| Barbarism   | Passive   | Gain a bonus to your Attack roll based on your remaining Hitpoints:<br><br>5 HP = +2<br>4 HP = +3<br>3 HP = +4<br>2 HP = +5<br>1 HP = x2                                                                      |
+| Beef        | Passive   | Gain +10 Hitpoints.                                                                                                                                                                                           |
+| Blood Magic | Passive   | When you make any roll, you may subtract your Hitpoints by 1-5 and increase your roll by that amount.                                                                                                         |
+| Body Odor   | Passive   | Nearby enemies have -1 to their Attack and -1 Defense.<br>Nearby allies have +1 to their Attack and +1 Defense.                                                                                               |
