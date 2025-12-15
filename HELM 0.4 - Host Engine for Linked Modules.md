@@ -8,11 +8,9 @@ HELM operates **internally**, within a game setting, webapp or site, or other ap
 
 HELM is **unbiased**, meaning its themes and mechanics can be adapted to fit a wide variety of settings. Elements are genre-agnostic, and may be presented in whichever flavor the Game Master wishes.
 
-A list of HELM modules can be found in Appendix II, towards the end of this document. It is recommended that you play using the core modules, then add/remove additional modules according to your preferences. If you are a player, your Game Master will inform you of which modules you will be using.
+A list of HELM modules can be found in Appendix II, towards the end of this document. It is recommended that you play using the core modules, then add additional modules according to your preferences. If you are a player, your Game Master will inform you of which modules you will be using.
 
 HELM is in an unfinished state. It is likely that many rules will be unclear, certain builds will be unbalanced, and game flow will be broken. It is up to the Game Master to navigate these issues and make rulings on the fly to ensure a smooth experience for their players. When in doubt, *just say yes*, *fail forward*, and follow *the rule of cool*.
-
-If you have any questions about HELM or suggestions for the system, you can find my contact in Appendix IV.
 
 Thank you for trying HELM! 
 
@@ -129,7 +127,7 @@ At its core, HELM (and many other TTRPGs) is a collaborative exercise in creativ
 1. The **Game Master** describes a setting or encounter that the players are faced with.
 2. The **players** inform the Game Master of their decisions on how to proceed.
 3. The **Game Master** informs the players on how to navigate the challenge, typically with a roll.
-4. The **players** relay their roll to the Game Master, typically after applying all relevant modifiers.
+4. The **players** relay their roll to the Game Master after applying all relevant modifiers.
 5. The **Game Master** describes the outcome based on the player rolls.
 6. Repeat.
 
@@ -212,7 +210,7 @@ When your Game Master determines that an adventuring day has passed, all your st
 - **Hitpoints (HP).** Determines a character's Hitpoint maximum. When a character's hitpoints reach 0, it is *Incapacitated.*
 - **Module.** Optional expansions for the host engine.
 	- **Core.** Modules that are considered integral to HELM by the developer.
-	- **Xpac.** Official, non-essential modules; 'eXpansion packs'. Often experimental. 
+	- **Xpac.** Official, non-essential modules; 'eXpansion PACks'.
 	- **Community.** Third-party modules designed by the community.
 - **Roll.** Get a random number within the applicable roll table.
 - **Roll Table.** The values that a character rolls between when performing a relevant action. Alternate roll tables may be provided by your Game Master.
@@ -221,11 +219,12 @@ When your Game Master determines that an adventuring day has passed, all your st
 	- **Ability.** Inherent talents that certain skill levels possess. These do not count against your Max Talents.
 ## ii. Modules
 ### Core
-- [[Csheets 0.1]]
-- [[Talented 0.1]]
-- [[Treasury 0.2]]
+- [[Csheets 0.1]] - Character Sheet Rules
+- [[Talented 0.1]] - Talents Manager
+- [[Treasury 0.2]] - Item Manager
 ### Xpac
-- Cavalry 0.1
+- Cavalry 0.1 - Grid Movement & Mounted Combat
+- Classified 0.1 - Class & Leveling System
 ### Community
 - None.. yet!
 ## iii. Credits
@@ -238,6 +237,3 @@ When your Game Master determines that an adventuring day has passed, all your st
 | Created        | 2022                                             |
 | Created By     | Greaves                                          |
 | Special Thanks | Battered Buckler                                 |
-
-## iv. Contact
-Discord - greaves
