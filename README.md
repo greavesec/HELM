@@ -41,6 +41,7 @@ You may change your character's skill level between events.
 | Journeyman  | 25        | 4       | 1-20       | -                 | 2            |
 | Expert      | 30        | 5       | 1-21       | -                 | 2            |
 | Master      | 35        | 5       | 2-21       | Master's Tutelage | 2            |
+
 \* - Requires [[Talented 0.1]] module.
 ## 1.2 - Role
 Your character's role is their preferred (or natural) position in the adventuring party. This might not just mean their place in the marching order, but could infer the tools and disposition they bring with them in and out of combat.
@@ -53,6 +54,7 @@ Your character's role is their preferred (or natural) position in the adventurin
 | The Lookout     | You stand watch while others do the solving. As a result, you have advantage on all rolls made to spot suspicious activity and incoming danger. You cannot be Surprised.                                                                                                                                                               |
 | The Scholar     | Years of nonspecific study and experience has rendered you proficient in detecting arcana and technology, and solving puzzles. You have advantage on all rolls made to track and identify magic or technology, and discern solutions to problems.                                                                                      |
 | The Freebooter* | You're in it to win it, baby. When you're shown the *hoard*--the items typically distributed at the end of an event--you have first pick at the loot, so long as your character knows it's there and can plausibly reach it in time. <br><br>You also gain 1-10 additional Treasury coins (guild-specific) when first shown the hoard. |
+
 \* - Requires [[Treasury 0.2]] module.
 ## 1.3 - Archetype
 Your character's archetype represents their preferred role in combat. Archetypes are designed so that those who are proficient in certain skills may flourish, and not be overpowered by those with completely different skill-sets.
