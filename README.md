@@ -20,7 +20,7 @@ Thank you for trying HELM!
 > [!NOTE] Important!
 > New players are strongly encouraged to read this document through in its entirety.
 > 
-> It is important for Game Masters to familiarize themselves with the character creation process. However, information more pertinent to their role can be found beginning at Chapter 1.6 - Character Sheet.
+> It is important for Game Masters to familiarize themselves with the character creation process. However, information more pertinent to their role can be found beginning at **Chapter 1.6 - Character Sheet**.
 
 
 The first step to playing HELM is to create a character. 
@@ -42,9 +42,11 @@ You may change your character's skill level between events.
 | Expert      | 30        | 5       | 1-21       | -                 | 2            |
 | Master      | 35        | 5       | 2-21       | Master's Tutelage | 2            |
 
-\* - Requires [[Talented 0.1]] module.
+\* - Requires [[Talented 0.1]] module. Consult the module for descriptions.
 ## 1.2 - Role
 Your character's role is their preferred (or natural) position in the adventuring party. This might not just mean their place in the marching order, but could infer the tools and disposition they bring with them in and out of combat.
+
+You may change your role between events.
 
 | Role            | Description                                                                                                                                                                                                                                                                                                                            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,6 +60,8 @@ Your character's role is their preferred (or natural) position in the adventurin
 \* - Requires [[Treasury 0.2]] module.
 ## 1.3 - Archetype
 Your character's archetype represents their preferred role in combat. Archetypes are designed so that those who are proficient in certain skills may flourish, and not be overpowered by those with completely different skill-sets.
+
+You may change your archetype between events.
 
 Archetypes require use of the [[Talented 0.1]] and [[Treasury 0.2]] modules.
 
@@ -78,7 +82,7 @@ You may use talents alongside items *and* your normal roll in the same phase unl
 
 The maximum number of talents you may select is determined by your character's skill level.
 
-Talents may be swapped between events *and* adventuring days.
+Talents may be swapped between events.
 ## 1.5 - Items & Equipment
 See: [[Treasury 0.2]]
 
@@ -88,7 +92,7 @@ Using [[Treasury 0.2]], all player characters are given a starting allowance of 
 
 Characters may bring a maximum of 3 items to an event. Items are typically retained between events. If a character obtains an item during an event (and has space to hold it), that character will retain access to that item.
 
-Items may be swapped between events, but **NOT adventuring days**. Characters may discard items at any time.
+Items may be swapped between events. Characters may discard items at any time.
 
 You may use or activate any number of your items in addition to your roll that phase. However, items may each only be used *once per phase* unless otherwise stated.
 
@@ -168,22 +172,22 @@ While 'skill check' is a colloquial term, you will most often find the following
 ### 2.1.3 - Free & Pass Actions
 ..
 
-### 2.1.4 - Criticals & Flourishing
-*Critical* refers to the highest value on your roll table. Certain rules or abilities may allow you to automatically roll a critical.
+### 2.1.4 - Critical Rolls
+A *critical roll* refers to the highest value on your roll table. Certain rules or abilities may allow you to automatically roll a critical.
 
-If you roll your critical naturally (without the aid of talents or modifiers), you *flourish*, doubling your roll and then adding applicable modifiers.
+If you make a critical roll naturally (without the aid of modifiers), you double your roll and then add any applicable modifiers.
 
-If a rule states that you make a critical roll, you do NOT also flourish.
+If a rule states that you make a critical roll, unless that rule states otherwise, you may treat it as a natural critical roll.
 ## 2.2 - Game Phases
-HELM operates in phases, alternating between the players and Game Master. These are called the Ally Phase, and Environment/Enemy Phase respectively. Typically, these game phases are only tracked during combat or tense encounters where the Game Master must retain control and make minute rulings.
+HELM operates in phases, alternating between the players and Game Master. These are called the Ally Phase, and World Phase respectively. Typically, these game phases are only tracked during combat or tense encounters where the Game Master must retain control and make minute rulings.
 
 Your Game Master will announce when a new phase begins.
 ### 2.2.1 - Ally Phase
 During the ally phase, players may take actions and make rolls. Generally, all player actions are considered to happen simultaneously (no turn order), with pivotal moments--such as first blood or the final blow--happening on the first and last points of damage respectively.
 
 If you wish to prioritize your action over your allies', preface your emote with an exclamation point (!) or simply mention it early in the ally phase.
-### 2.2.2 - Environment Phase
-During the environment phase, the Game Master executes the actions of nearby NPCs and/or triggers encounters. Players cannot typically take actions during the environment phase.
+### 2.2.2 - World Phase
+During the world phase, the Game Master executes the actions of nearby NPCs and/or triggers encounters. Players cannot typically take actions during the world phase.
 ### 2.2.3 - Example Round
 ..
 ### 2.2.4 - Event vs. Adventuring Day
@@ -225,8 +229,8 @@ When your Game Master determines that an adventuring day has passed, all your st
 - [[Talented 0.1]] - Talents Manager
 - [[Treasury 0.2]] - Item Manager
 ### Xpac
-- Cavalry 0.1 - Grid Movement & Mounted Combat
-- Classified 0.1 - Class & Leveling System
+- **Cavalry 0.1** - Grid Movement & Mounted Combat (discont.)
+- **Classified 0.1** - Class & Leveling System (discont.)
 ### Community
 - None.. yet!
 ## iii. Credits
