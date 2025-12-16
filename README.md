@@ -169,8 +169,8 @@ While 'skill check' is a colloquial term, you will most often find the following
 - Stealth check (The Sneak)
 - Perception check (The Lookout)
 - Knowledge check (The Scholar)
-### 2.1.3 - Free & Pass Actions
-..
+### 2.1.3 - Pass Actions
+*Pass actions* are specific actions that take up your normal roll for that phase. They may either be provided by a rule (item or talent) or imposed by your Game Master after taking certain actions that are outside the preset rolls. Depending on the action, the player may still be asked to roll to determine the degree or probability of success.
 
 ### 2.1.4 - Critical Rolls
 A *critical roll* refers to the highest value on your roll table. Certain rules or abilities may allow you to automatically roll a critical.
@@ -179,18 +179,28 @@ If you make a critical roll naturally (without the aid of modifiers), you double
 
 If a rule states that you make a critical roll, unless that rule states otherwise, you may treat it as a natural critical roll.
 ## 2.2 - Game Phases
-HELM operates in phases, alternating between the players and Game Master. These are called the Ally Phase, and World Phase respectively. Typically, these game phases are only tracked during combat or tense encounters where the Game Master must retain control and make minute rulings.
+HELM operates in phases, alternating between the players and Game Master. These are called the *ally phase*, and *world phase* respectively. Typically, these game phases are only tracked during combat or tense encounters where the Game Master must retain control and make minute rulings. 
 
-Your Game Master will announce when a new phase begins.
+Some rules require the player to know the *phase count*. This refers to the numbering of each pair of phases: After one ally phase *and* world phase has passed, the phase count increases by 1.
+
+Your Game Master will announce when a new phase begins, as well as the current phase count.
 ### 2.2.1 - Ally Phase
 During the ally phase, players may take actions and make rolls. Generally, all player actions are considered to happen simultaneously (no turn order), with pivotal moments--such as first blood or the final blow--happening on the first and last points of damage respectively.
 
-If you wish to prioritize your action over your allies', preface your emote with an exclamation point (!) or simply mention it early in the ally phase.
+If you wish to prioritize your action over your allies', preface your emote with an exclamation point (!) or simply mention it early in the ally phase. Otherwise, your Game Master will typically take player actions in the order that they are provided.
 ### 2.2.2 - World Phase
 During the world phase, the Game Master executes the actions of nearby NPCs and/or triggers encounters. Players cannot typically take actions during the world phase.
-### 2.2.3 - Example Round
-..
-### 2.2.4 - Event vs. Adventuring Day
+## 2.3 - Movement & Positioning
+HELM does not have explicit rulings for movement and positioning. Instead, these things are at the discretion of your Game Master in conjunction with the environment that you are playing in.
+
+Tips for Players:
+- You can generally assume your character's movement encompasses 'a short jog' from their starting position, or 'a handful of paces'.
+- When in doubt, ask your Game Master if you can reach your intended target, and how to navigate any obstacles that may be present.
+
+Tips for Game Masters:
+- Plan encounters in such a way that maneuverability is either obvious or obsolete.
+- Take advantage of systems that allow you to measure distance within your chosen game environment and create custom rules.
+## 2.4 - Event vs. Adventuring Day
 Certain items and abilities may have restrictions on how often they may be used or changed. This is typically determined by *uses per event* or *uses per day*. 
 
 Event refers to the whole body of the current game. It typically means the present game session, but can encompass the entirety of a multi-session campaign. Consult your Game Master to determine how your game is structured.
@@ -198,8 +208,7 @@ Event refers to the whole body of the current game. It typically means the prese
 The adventuring day is a smaller division within the overall event structure. It represents the in-universe day that your character is adventuring on. A single event may be made up of multiple adventuring days.
 
 When your Game Master determines that an adventuring day has passed, all your stats are refreshed to their defaults, and all items with the *uses per day* tag are recharged.
-
-## 2.3 - Conditions
+## 2.5 - Conditions
 
 | Condition         | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -243,3 +252,6 @@ When your Game Master determines that an adventuring day has passed, all your st
 | Created        | 2022                                             |
 | Created By     | Greaves                                          |
 | Special Thanks | Battered Buckler                                 |
+
+## iv. License
+See: [[LICENSE]]
