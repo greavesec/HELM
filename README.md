@@ -252,6 +252,3 @@ When your Game Master determines that an adventuring day has passed, all your st
 | Created        | 2022                                             |
 | Created By     | Greaves                                          |
 | Special Thanks | Battered Buckler                                 |
-
-## iv. License
-See: [[LICENSE]]
