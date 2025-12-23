@@ -2,4 +2,4 @@ This project may freely be used and altered in any way, presented with or withou
 
 This project, in its past and current iterations, may NOT be credited as belonging to persons whom it does not belong.
 
-All assets (art, the 'HELM project') are the intellectual property of the creator, to whom rights are reserved.
+All assets (art, the 'HELM project') are the intellectual property of the creator, to whom rights may be reserved.
